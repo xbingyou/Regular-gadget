@@ -1,0 +1,13 @@
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\bin\Debug\ByteTest.exe.config
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\bin\Debug\ByteTest.exe
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\bin\Debug\ByteTest.pdb
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\obj\Debug\ByteTest.Form1.resources
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\obj\Debug\ByteTest.Properties.Resources.resources
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\obj\Debug\ByteTest.csproj.GenerateResource.cache
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\obj\Debug\ByteTest.csproj.CoreCompileInputs.cache
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\obj\Debug\ByteTest.exe
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\obj\Debug\ByteTest.pdb
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\bin\Debug\CSkin.dll
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\bin\Debug\CSkin.xml
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\obj\Debug\ByteTest.csproj.CopyComplete
+D:\Users\xbingyov\source\repos\ByteTest\ByteTest\obj\Debug\ByteTest.csprojAssemblyReference.cache
